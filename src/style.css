@@ -1,13 +1,12 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    padding-top: 165px;
+    padding-top: 120px;
     background: #0e1117;
     color: white;
   }
   
   canvas {
     display: none;
-  
     position: fixed;
     top: 0;
     left: 0;
@@ -22,18 +21,13 @@ body {
   
   button {
     cursor: pointer;
-  
     padding: 8px;
-  
-    font-family: 'Source Sans Pro', sans-serif;
-  
+    font-family: 'Open Sans Bold', sans-serif;
     background: rgba(255, 255, 255, 0.1);
     color: white;
-  
     outline: 0;
     border: none;
     border-radius: 4px;
-  
     transition: all 0.2s;
   }
   
@@ -51,20 +45,29 @@ body {
 }
 
 .btn {
-  /* display: flex; */
   justify-content: center;
   align-items: center;
   width: 150px;
   height: 50px;
-  /* position: relative; */
   margin: 10px;
+  font-size: 20px;
 }
 
 
-.haeding h1 {
-  position:relative; font-size:20px; font-weight:700;  letter-spacing:0px; text-transform:uppercase; width:150px; text-align:center; margin:auto; white-space:nowrap; border:2px solid #222;padding:5px 11px 3px 11px;
+h1 {
+  position:relative; 
+  font-size:60px; font-weight:2100;  
+  letter-spacing:0px; 
+  text-transform:uppercase; 
+  width:450px; 
+  text-align:center; 
+  margin:auto; 
+  white-space:nowrap; 
+  border:2px solid #222;
+  padding:5px 11px 3px 11px;
+
 }
-.haeding h1:before, .haeding h1:after {
+h1:before, h1:after {
     background-color: #c50000;
     position:absolute; 
     content: '';
@@ -73,9 +76,11 @@ body {
     width: 7px; border-radius:50%;
     bottom: 12px;
 }
-.haeding h1:before {
+
+h1:before {
    left:-20px;
 }
-.haeding h1:after {
+h1:after {
    right:-20px;
 }
+
