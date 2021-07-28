@@ -1,11 +1,11 @@
 # Dot-Pattern
-<hr>
- a nice and simple line connecting dots screensaver! 
-[Click Here to check it out]()
 
-> Inspired by a [bubbles screensaver](https://p5js-screensaver.rayhanadev.repl.co/) I recently discovered, I decided to make a nice and simple connecting dots Hero page!
+ a nice and simple line connecting dots screensaver!
+[ check it out]() <br>
+
+> Inspired by a [bubbles screensaver](https://webdesigntips.blog/web-design/javascript/making-simple-bubble-screensaver-using-p5-js/) I recently discovered and decided to make a nice and simple connecting dots Hero page like it!
 # About
-<hr>
+
 Various websites have this effect, however it was the old processing website that truly encouraged me to do it (effect no longer). No other website, however, had the same effect as the one I designed! As a result, I made it myself :)
 This was also a wonderful method to learn & practics quadtrees, which is a technique for minimising collisions between a large number of particles.
 
