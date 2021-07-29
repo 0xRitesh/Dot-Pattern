@@ -15,8 +15,10 @@ This was also a wonderful method to learn & practics quadtrees, which is a tech
 - Press any key to go faster.
 
 # Screenshots
+<img src="https://github.com/wordssaysalot/Dot-Pattern/blob/main/img/1.jpg?raw=true">
+<img src="https://github.com/wordssaysalot/Dot-Pattern/blob/main/img/2.jpg?raw=true">
+<img src="https://github.com/wordssaysalot/Dot-Pattern/blob/main/img/3.jpg?raw=true">
 
-
-
-
-Send screenshots of patterns you find!
+# Fun activity
+Send screenshots of patterns you find and create a pull request!
+> First time contributing to open source? Awesome! Read more about the process in [Contributing to GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
